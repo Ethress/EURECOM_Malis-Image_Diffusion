@@ -1,8 +1,5 @@
 # EURECOM_Malis-StableDiffusion-project
 
-
-# EURECOM_Malis-StableDiffusion-project
-
 ## What is it
 Here I will give the steps to build a Diffusion algorithm. Originally made for medical image segmentation, they have also recently been used to 
 
